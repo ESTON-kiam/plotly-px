@@ -6,4 +6,4 @@ def display_calendar():
 
     month_calendar=cal.formatmonth(year,month)
     print(month_calendar)
-display_calendar() # type: ignore
+display_calendar() # type: ignore 
